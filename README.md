@@ -1,5 +1,5 @@
 # Pnuemonia-Detection-Challenge
-<img src="gThe Real Problemreatleaning.png" alt="Alt text" title="">
+<img src="greatleaning.png" alt="Alt text" title="">
 
 ## The Real Problem
 Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli.
