@@ -1,4 +1,4 @@
-# pnuemonia-detection
+# Pnuemonia-Detection-Challenge
 <img src="gThe Real Problemreatleaning.png" alt="Alt text" title="">
 
 ## The Real Problem
